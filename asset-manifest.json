@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ABC-Game-React/static/css/main.a6c16444.chunk.css",
+    "main.js": "/ABC-Game-React/static/js/main.1d3652b5.chunk.js",
+    "main.js.map": "/ABC-Game-React/static/js/main.1d3652b5.chunk.js.map",
+    "runtime-main.js": "/ABC-Game-React/static/js/runtime-main.4eaca08f.js",
+    "runtime-main.js.map": "/ABC-Game-React/static/js/runtime-main.4eaca08f.js.map",
+    "static/js/2.b6d739a1.chunk.js": "/ABC-Game-React/static/js/2.b6d739a1.chunk.js",
+    "static/js/2.b6d739a1.chunk.js.map": "/ABC-Game-React/static/js/2.b6d739a1.chunk.js.map",
+    "index.html": "/ABC-Game-React/index.html",
+    "precache-manifest.a7d2e2b0ba4575951f07d8ed1c4f8ea8.js": "/ABC-Game-React/precache-manifest.a7d2e2b0ba4575951f07d8ed1c4f8ea8.js",
+    "service-worker.js": "/ABC-Game-React/service-worker.js",
+    "static/css/main.a6c16444.chunk.css.map": "/ABC-Game-React/static/css/main.a6c16444.chunk.css.map",
+    "static/js/2.b6d739a1.chunk.js.LICENSE.txt": "/ABC-Game-React/static/js/2.b6d739a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eaca08f.js",
+    "static/js/2.b6d739a1.chunk.js",
+    "static/css/main.a6c16444.chunk.css",
+    "static/js/main.1d3652b5.chunk.js"
+  ]
+}
