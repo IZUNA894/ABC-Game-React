@@ -10,7 +10,7 @@ this is simple game made in react.js using sounds helpful for small children to 
 
 ### Notes
 3 sounds are missing ('A','APPLE','B')...this is because of some files are missing from server...i will re add them as quickly as possible.
-all sounds are working fine.
+all other sounds are working fine.
 
 ### for screenshots 
 
